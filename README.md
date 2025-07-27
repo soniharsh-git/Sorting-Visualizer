@@ -4,14 +4,6 @@ An interactive web application that visually demonstrates popular sorting algori
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to view the live demo](https://your-username.github.io/sorting-visualiser/)
-
-> Replace `your-username` with your actual GitHub username after enabling GitHub Pages.
-
----
-
 ## 🧠 Features
 
 - 🎨 Visual representation of array sorting
